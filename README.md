@@ -1,2 +1,3 @@
 # MNIST-ConvNN
-ConvNN is used to predict digits for the MNIST dataset
+In this project I used a Convolutinal Neural Network to recognize handwritten digits for the MNIST dataset. In addition,
+I briefly discuss different versions of optimizers such as RMSprop, Adam, etc.
